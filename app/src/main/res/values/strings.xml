@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="Today">Today</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="sunny">Sunny</string>
+    <string name="wind">%d km/s</string>
+    <string name="precipitation">%d mm</string>
+</resources>
